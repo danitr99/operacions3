@@ -23,7 +23,4 @@ public class FactorialTest {
 		double valor = fn.factorialIteratiu(-3);
 		System.out.println(valor);
 	}
-	@Test
-
-
 }
